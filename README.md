@@ -1,4 +1,4 @@
-# 🧵 TailorMate SUTURA AI
+# 🧵 TAILORMATE SUTURA AI
 
 **TailorMate SUTURA AI** is an intelligent fashion automation platform that integrates AI, vision systems, and fabric data analytics to assist tailors, designers, and garment manufacturers. It simplifies design, measurement, and production using adaptive AI models.
 
